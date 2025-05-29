@@ -36,5 +36,7 @@ I'm currently a Master's student at **BYU** specializing in Computer Science wit
 - **Website:** [rsinema.net](https://rsinema.net)
 
 ---
+> _"The most disastrous thing you can ever learn is your first programming language." - **Alan Kay**_  
 
+  
 > _"Wisdom is not a product of schooling but of the lifelong attempt to acquire it." - **Albert Einstein**_
